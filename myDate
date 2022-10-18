@@ -1,0 +1,13 @@
+,name,score,qualify,labels
+0,Anastasia,12.5,yes,a
+1,Dima,9,no,b
+2,katherine,16.5,yes,c
+3,james,np.nan,no,d
+4,Emily,9,noe,
+5,Micheal,20,yes,f
+6,Mathew,14.5,yes,g
+7,Laura,np.nan,no,h
+8,Kevin,8,np.nan,i
+9,Jonas,19,yes,j
+10,Elias,20,yes,k
+11,Myriam,16,yes,l
